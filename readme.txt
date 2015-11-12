@@ -1,10 +1,11 @@
-=== DW Import External Images ===
-Contributors: martythornley 
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=11225299
+=== DW FitVids ===
+Contributors: IvanDoomer
+Donate link: https://www.patreon.com/IvanCarlos
 Tags: images, gallery, photobloggers, attachments, photo, links, external, photographers, Flickr, save, download
-Requires at least: 3.2
-Tested up to: 4.0
-Stable tag: trunk
+Requires at least: 3.3
+Stable tag: 1.2
+License: GPL2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Makes local copies of all the linked images in a post, adding them as gallery attachments.
 
